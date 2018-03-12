@@ -1,0 +1,287 @@
+[
+    [
+        "C:\\Users\\668541\\sfdxolay2\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\668541\\sfdxolay2\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520848664121,
+            "changeTime": 1520848664121,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\668541\\sfdxolay2\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\668541\\sfdxolay2\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520848664121,
+            "changeTime": 1520848664121,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520849348662,
+            "changeTime": 1520849348662,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520848664122,
+            "changeTime": 1520848664122,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520849348614,
+            "changeTime": 1520849348614,
+            "contentHash": "da402d2ed31bb32550ec8d060016052b935ddc37",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\layouts\\Lead-Lead %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\layouts\\Lead-Lead %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8660,
+            "modifiedTime": 1520849348568,
+            "changeTime": 1520849348568,
+            "contentHash": "25c963911255df2084781193874d4c3c6e783343",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\layouts\\Lead-Lead %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\layouts\\Lead-Lead %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8608,
+            "modifiedTime": 1520849348549,
+            "changeTime": 1520849348549,
+            "contentHash": "e207427d21052c259fb4ae19f146f11a7e812f11",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\layouts\\Lead-Lead %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\layouts\\Lead-Lead %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8047,
+            "modifiedTime": 1520849348614,
+            "changeTime": 1520849348614,
+            "contentHash": "9de08fef9feaf72782e927976e063a0615dbb93c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\layouts\\Lead-Lead Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\layouts\\Lead-Lead Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8608,
+            "modifiedTime": 1520849348598,
+            "changeTime": 1520849348598,
+            "contentHash": "e207427d21052c259fb4ae19f146f11a7e812f11",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520849348489,
+            "changeTime": 1520849348489,
+            "contentHash": "c6f71d85aeaa3b60db80eedad5ebb75e321f3eb0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\objects\\Lead",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\objects\\Lead",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520849348489,
+            "changeTime": 1520849348489,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\objects\\Lead\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\objects\\Lead\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520849348508,
+            "changeTime": 1520849348508,
+            "contentHash": "e2357409e988b169601033b5c715246582bd5102",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\objects\\Lead\\fields\\Test_field__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\objects\\Lead\\fields\\Test_field__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 372,
+            "modifiedTime": 1520849348508,
+            "changeTime": 1520849348508,
+            "contentHash": "053a5c94ef33ed4effcff31d6c7c960d81f19a4d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\profiles",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520849348729,
+            "changeTime": 1520849348729,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17629,
+            "modifiedTime": 1520849348717,
+            "changeTime": 1520849348717,
+            "contentHash": "b5fb289661890ed45482baaaeb9bbab8dacb2ef9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4589,
+            "modifiedTime": 1520849348687,
+            "changeTime": 1520849348687,
+            "contentHash": "2cea0791ca3480ae13ac25a190db53388236880a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4585,
+            "modifiedTime": 1520849348730,
+            "changeTime": 1520849348730,
+            "contentHash": "d4a51dbc0d7b4192f1d8a0727e2e67bdef2f67b3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\668541\\sfdxolay2\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4925,
+            "modifiedTime": 1520849348664,
+            "changeTime": 1520849348664,
+            "contentHash": "23c203efdbfc11b4e2482c59dcab3a4d32fb669e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\668541\\sfdxolay2",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\668541\\sfdxolay2",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520848777242,
+            "changeTime": 1520848777242,
+            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
